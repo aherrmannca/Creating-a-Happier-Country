@@ -4,13 +4,6 @@ for a country to work on, and in what order, with the main goal to improve
 happiness.
 
 Purpose:
-Happiness is the only quality of our lives which ultimately matters. It's
-how we passively quantify all the factors we deem important in living a good
-life, i.e. it's the overall appreciation of one's life as a whole. Would one
-rather be rich and powerful yet unhappy or neither rich nor powerful yet
-happy? Money does bring some happiness, but there is an extent.
+Happiness matters. It's how we quantify the essentials necessary for appreciating our quality of life. Everyone has heard and probably pondered this question: Would you rather be rich or happy? There is no simple answer.
 
-A Government is a non profit organization that is to the people, for the
-people, by the people. It aims to work for the people and their betterment
-as a whole. Thus, one of the best values to judge a country's success is by
-how happy their citizens are.
+A Government is an entity that aims to work for its people and their advancement as a whole; and thus its success, its country's success, can be measured by how happy their citizens are.
